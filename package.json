@@ -7,9 +7,6 @@
   "bin": {
     "bwip-js": "./bin/bwip-js.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/metafloor/bwip-js.git"
